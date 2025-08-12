@@ -7,7 +7,7 @@ pipeline {
                 echo 'Hello from Jenkins on day 3rd!'
             }
         }
-                stage('Hello') {
+        stage('Hy') {
             steps {
                 echo 'Hello from Jenkins on day 3rd!'
                 echo 'We are changing and pushing our second time code!'
